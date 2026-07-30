@@ -12,7 +12,7 @@ Microsoft Fabric · Power BI · SQL · DAX · Power Query (M) · ETL & Data Inte
 
 | Project | What it covers |
 |---|---|
-| **[Sales Performance Analytics](#)** | End-to-end sales analytics model — monthly/YTD performance, brand/product analysis, client/store performance, sales rep & route tracking |
+| **[Sales Performance Analytics](https://github.com/fuadgashi/Sales-Performance-Analytics)** | End-to-end sales analytics model — monthly/YTD performance, brand/product analysis, client/store performance, sales rep & route tracking |
 
 *(To protect client confidentiality, every project in this repository uses sample data.)*
 
