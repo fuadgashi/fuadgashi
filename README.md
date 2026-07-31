@@ -2,7 +2,7 @@
 
 **Business Intelligence Architect** — Power BI · Microsoft Fabric · SQL · Data Modeling · AI-Enhanced BI
 
-I design scalable analytics architectures, not just dashboards — semantic models and reporting systems built to stay reliable as a business grows, not just look good in a demo. I also apply Context Engineering and Prompt Engineering to build AI-enhanced BI workflows that speed up development and documentation. 7+ years delivering end-to-end BI across FMCG & distribution, logistics, pharmaceuticals, e-commerce, manufacturing, and multi-channel marketing — integrating data from ERPs, CRMs, cloud platforms, APIs, and SQL databases into a single trusted source of truth. Microsoft Certified: Power BI Data Analyst Associate (PL-300).
+I design scalable analytics architectures — semantic models and reporting systems built to stay reliable as a business grows, not just look good in a demo. I also apply Context Engineering and Prompt Engineering to build AI-enhanced BI workflows that speed up development and documentation. 7+ years delivering end-to-end BI across FMCG & distribution, logistics, pharmaceuticals, e-commerce, manufacturing, and multi-channel marketing — integrating data from ERPs, CRMs, cloud platforms, APIs, and SQL databases into a single trusted source of truth. Microsoft Certified: Power BI Data Analyst Associate (PL-300).
 
 ## Core Expertise
 
