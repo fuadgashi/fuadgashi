@@ -13,6 +13,7 @@ Microsoft Fabric · Power BI · SQL · DAX · Power Query (M) · ETL & Data Inte
 | Project | What it covers |
 |---|---|
 | **[Sales Performance Analytics](https://github.com/fuadgashi/Sales-Performance-Analytics)** | End-to-end sales analytics model — monthly/YTD performance, brand/product analysis, client/store performance, sales rep & route tracking |
+| **[Inventory Optimization & Replenishment Analytics](https://github.com/fuadgashi/Inventory-Optimization-Replenishment-Analytics)** | Stock health monitoring and automated purchase recommendations — durability tracking, overstock/stockout risk, demand-driven ordering logic |
 
 *(To protect client confidentiality, every project in this repository uses sample data.)*
 
