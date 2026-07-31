@@ -18,6 +18,7 @@ Microsoft Fabric · Power BI · SQL · DAX · Power Query (M) · ETL & Data Inte
 |---|---|
 | **[Sales Performance Analytics](https://github.com/fuadgashi/Sales-Performance-Analytics)** | End-to-end sales analytics model — monthly/YTD performance, brand/product analysis, client/store performance, sales rep & route tracking |
 | **[Inventory Optimization & Replenishment Analytics](https://github.com/fuadgashi/Inventory-Optimization-Replenishment-Analytics)** | Stock health monitoring and automated purchase recommendations — durability tracking, overstock/stockout risk, demand-driven ordering logic |
+| **[Strategic Portfolio Analytics](https://github.com/fuadgashi/Strategic-Portfolio-Analytics)** | Portfolio-level analytics applying the BCG Growth-Share Matrix and clustering-based segmentation — brand/product classification, customer prioritization |
 
 *(To protect client confidentiality, every project in this repository uses sample data.)*
 
