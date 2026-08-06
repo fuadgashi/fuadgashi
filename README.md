@@ -16,10 +16,11 @@ Microsoft Fabric · Power BI · SQL · DAX · Power Query (M) · ETL & Data Inte
 
 | Project | What it covers |
 |---|---|
-| **[Sales Performance Analytics](https://github.com/fuadgashi/Sales-Performance-Analytics)** | End-to-end sales analytics model — monthly/YTD performance, brand/product analysis, client/store performance, sales rep & route tracking |
-| **[Inventory Optimization & Replenishment Analytics](https://github.com/fuadgashi/Inventory-Optimization-Replenishment-Analytics)** | Stock health monitoring and automated purchase recommendations — durability tracking, overstock/stockout risk, demand-driven ordering logic |
-| **[Strategic Portfolio Analytics](https://github.com/fuadgashi/Strategic-Portfolio-Analytics)** | Portfolio-level analytics applying the BCG Growth-Share Matrix and clustering-based segmentation — brand/product classification, customer prioritization |
-| **[Purchasing & Supplier Analytics](https://github.com/fuadgashi/Purchasing-Supplier-Analytics)** | Centralized purchasing and supplier analytics — purchasing spend, invoice activity, supplier dependency risk, year-over-year purchasing trends |
+| **[Sales Performance Analytics](https://github.com/fuadgashi/Sales-Performance-Analytics)** | End-to-end sales analytics — monthly/YTD performance, brand/product analysis, client/store performance, sales rep & route tracking, built on a 23-function DAX time-intelligence library with a dynamic bilingual report UI |
+| **[Inventory Optimization & Replenishment Analytics](https://github.com/fuadgashi/Inventory-Optimization-and-Replenishment-Analytics)** | Stock health monitoring and automated purchase recommendations — coverage vs. per-brand targets, overstock/stockout risk banding, growth-capped demand-driven ordering logic |
+| **[Strategic Portfolio Analytics](https://github.com/fuadgashi/Strategic-Portfolio-Analytics)** | Portfolio-level analytics applying the BCG Growth-Share Matrix at brand and product grain, plus dynamic percentile-based segmentation for product and customer prioritization |
+| **[Purchasing & Supplier Analytics](https://github.com/fuadgashi/Purchasing-and-Supplier-Analytics)** | Goods-receipt value, quantity, and transaction-volume tracking by brand and product — YoY growth, purchase share, and transaction volume as a first-class KPI |
+| **[Customer Support Analytics](https://github.com/fuadgashi/CustomerSupport-Analytics)** | Helpdesk operations analytics — ticket volume & SLA tracking, call analytics, agent performance, and customer segmentation, on the same DAX time-intelligence and dynamic-localization architecture |
 
 *(To protect client confidentiality, every project in this repository uses sample data.)*
 
