@@ -1,6 +1,6 @@
 # Fuad Gashi
 
-**Senior Power BI Consultant** · Microsoft Fabric · DAX · SQL · Data Modeling · AI-Assisted BI
+**Senior Power BI Consultant** · DAX · SQL · Microsoft Fabric · Data Modeling · Context Engineering
 
 <!-- Banner / report screenshot strip goes here (Phase 2) -->
 
@@ -29,7 +29,7 @@ Each project follows a documented methodology — modeling rules, DAX standards,
 - **Power BI:** DAX · Power Query (M) · PBIP / TMDL · Row-Level Security · Paginated Reports · Power BI Service
 - **Microsoft Fabric:** Lakehouse · Dataflows Gen2 · Data Pipelines · Semantic Models
 - **Data:** SQL Server / T-SQL · Star Schema Design · ETL & Data Integration
-- **AI-Assisted BI:** Context Engineering · Prompt Engineering · Automated Documentation
+- **Context Engineering:** AI Rules & Skills · Prompt Engineering · Automated Documentation
 
 ## Contact
 
