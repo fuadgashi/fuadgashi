@@ -19,7 +19,7 @@ I build Power BI semantic models and reports that teams can trust — fast, cons
 | **[Purchasing & Supplier Analytics](https://github.com/fuadgashi/Purchasing-and-Supplier-Analytics)** | Goods-receipt value, quantity, and transaction volume — YoY growth and purchase share |
 | **[Customer Support Analytics](https://github.com/fuadgashi/CustomerSupport-Analytics)** | Ticket volume, SLA tracking, call analytics, agent performance, and customer segmentation |
 
-*All projects use generic sample data and anonymized names to protect client confidentiality.*
+*All projects are anonymized to protect client confidentiality; most use generic sample data.*
 
 ## How I Work
 
