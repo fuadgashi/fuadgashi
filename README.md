@@ -12,6 +12,7 @@ I build Power BI semantic models and reports that teams can trust — fast, cons
 
 | Project | Highlights |
 |---|---|
+| **[Inventory Analytics](https://github.com/fuadgashi/Inventory-Analytics)** | Stock value under IAS 2, expiry risk by shelf life, and rest-of-year order requirements — fully documented, with CI checks and a DAX audit on every change |
 | **[Sales Performance Analytics](https://github.com/fuadgashi/Sales-Performance-Analytics)** | Sales by period, brand, product, client, store, and rep — on a 23-function DAX time-intelligence library with a bilingual UI |
 | **[Inventory Optimization & Replenishment](https://github.com/fuadgashi/Inventory-Optimization-and-Replenishment-Analytics)** | Stock coverage vs. brand targets, stockout/overstock risk banding, growth-capped purchase recommendations |
 | **[Strategic Portfolio Analytics](https://github.com/fuadgashi/Strategic-Portfolio-Analytics)** | BCG Growth-Share Matrix at brand and product level, with percentile-based ABCD segmentation |
