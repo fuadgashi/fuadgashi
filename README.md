@@ -13,7 +13,7 @@ I build Power BI semantic models and reports that teams can trust — fast, cons
 | Project | Highlights |
 |---|---|
 | **[Inventory Control](https://github.com/fuadgashi/Inventory-Control)** | Stock value under IAS 2, expiry risk by shelf life, and rest-of-year order requirements — fully documented, with CI checks and a DAX audit on every change |
-| **[Purchasing Analytics](https://github.com/fuadgashi/Purchasing-Analytics)** | Purchase volumes and invoices vs. last year, supplier share, and new vs. dropped products — fully documented, with CI checks and a DAX audit on every change |
+| **[Purchasing and Supply](https://github.com/fuadgashi/Purchasing-and-Supply)** | Purchase volumes and invoices vs. last year, supplier share, and new vs. dropped products — fully documented, with CI checks and a DAX audit on every change |
 | **[Trade Investment Budget](https://github.com/fuadgashi/Trade-Investment-Budget)** | What the price sets aside for bonuses, in-store placements and marketing against what customer terms, discounts and credit notes spend — in total and per customer, fully documented, with CI checks and a DAX audit on every change |
 | **[Gross Margin](https://github.com/fuadgashi/Gross-Margin)** | Gross profit and margin by brand, product and channel against last year and before discounts, with price × volume, outlet reach and kept / new / lost behind each change — fully documented, with CI checks and a DAX audit on every change |
 
